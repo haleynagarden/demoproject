@@ -1,9 +1,9 @@
 #include <string>
-usingnamespace std;
+using namespace std;
 
 int main{
 	cout<< "Hey Girly"
 
-		return 0;
+	return 0;
 }
 
