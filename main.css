@@ -5,7 +5,7 @@ Purpose of this file is to add main.css file
 for basic CSS design to remove center tag 
 from the already existing "index.html" file.
 To then add class text-center to h1 tag.
-/**
+**/
 
 .text-center {
     text-align: center;
